@@ -12,3 +12,5 @@ When a user **hovers** over a track, it immediately starts loading the correspon
 Additionally, when an audio finishes, it **automatically loads the next one**.
 
 This approach allows the page to load much faster and ensures the user only loads the audio they actually need, reducing unnecessary delays.
+
+P.S Solution 1 use absolute path and solution 2 use relative path to load audios.
